@@ -2,6 +2,7 @@
 主要是一些常见的git命令，和git以及github操作技巧。
 
 ## 重点写出, 方便记忆:
+
 来自 **git快速提交Github步骤.txt**
 #找到你要提交的目录下
 
@@ -20,9 +21,9 @@ github:
 #push前先将远程repository的修改pull下来
 
 `git pull origin master`
-<br>
+<br />
 #作出修改, 如: 修改文件和增加文件(或者文件夹)
-<br>
+<br />
 #将添加的提交到列表上
 
 `git add .`
