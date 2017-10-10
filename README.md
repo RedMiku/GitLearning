@@ -2,9 +2,9 @@
 	主要是一些常见的git命令，和git以及github操作技巧。
 
 ## 重点写出, 方便记忆:
-<b>来自 git快速提交Github步骤.txt:</b>
+来自 <b>git快速提交Github步骤.txt</b>:
 #找到你要提交的目录下
-git init
+`git init`
 
 #添加提交的远程仓库:
 码云:
