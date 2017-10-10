@@ -22,6 +22,7 @@ github:
 #push前先将远程repository的修改pull下来
 
 `git pull origin master`
+
 <br />
 
 #作出修改, 如: 修改文件和增加文件(或者文件夹)
@@ -44,6 +45,7 @@ github:
 #查看git状态
 
 `git status`
+
 
 其中, JavaWeb项目中`.gitignore`文件应添加的内容为:
 
