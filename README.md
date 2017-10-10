@@ -8,6 +8,7 @@
 `git init`
 
 #添加提交的远程仓库:
+
 码云:
 
 `git remote add origin git@gitee.com:menglanyingfei/matlablearning.git`
@@ -19,9 +20,9 @@ github:
 #push前先将远程repository的修改pull下来
 
 `git pull origin master`
-
+<br>
 #作出修改, 如: 修改文件和增加文件(或者文件夹)
-
+<br>
 #将添加的提交到列表上
 
 `git add .`
