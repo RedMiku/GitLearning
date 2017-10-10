@@ -26,4 +26,18 @@ git push origin master
 git status
 # 查看git状态
 
+其中, JavaWeb项目中.gitignore文件应添加的内容为:
+*.DS_Store
+*.iml
+.classpath
+.project
+.settings
+.idea
+.springBeans
+.checkstyle
+target
+bin/
+logs/
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/lib/
 
