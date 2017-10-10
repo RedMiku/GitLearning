@@ -47,7 +47,7 @@ github:
 `git status`
 
 <br />
-其中, JavaWeb项目中`.gitignore`文件应添加的内容为:
+其中, JavaWeb项目中.gitignore文件应添加的内容为:
 
 *.DS_Store
 
